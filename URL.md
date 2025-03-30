@@ -1,0 +1,8 @@
+1. [Yozfont edu](http://http.us.debian.org/debian/pool/main/f/fonts-yozvox-yozfont/fonts-yozvox-yozfont-edu_14.04-2_all.deb)
+2. [Yozfont Cute](http://http.us.debian.org/debian/pool/main/f/fonts-yozvox-yozfont/fonts-yozvox-yozfont-cute_14.04-2_all.deb)
+3. [Yozfont Antique](http://http.us.debian.org/debian/pool/main/f/fonts-yozvox-yozfont/fonts-yozvox-yozfont-antique_14.04-2_all.deb)
+4. [Motaya-I-cedar](http://deb.debian.org/debian/pool/main/f/fonts-motoya-l-cedar/fonts-motoya-l-cedar_1.01.orig.tar.xz)
+5. [Motoya-I-Maruberi](http://deb.debian.org/debian/pool/main/f/fonts-motoya-l-maruberi/fonts-motoya-l-maruberi_1.01.orig.tar.xz)
+6. [Kouzan-mouhitsu](http://http.us.debian.org/debian/pool/main/f/fonts-kouzan-mouhitsu/fonts-kouzan-mouhitsu_20170411-3_all.deb)
+7. [Aoyagi-Soseki](http://http.us.debian.org/debian/pool/main/f/fonts-aoyagi-soseki/fonts-aoyagi-soseki_20070207-17_all.deb)
+8. [Konatu](http://http.us.debian.org/debian/pool/main/f/fonts-konatu/fonts-konatu_20121218-11_all.deb)

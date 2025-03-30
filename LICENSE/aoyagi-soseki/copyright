@@ -1,0 +1,23 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://opentype.jp/aoyagisosekifont.htm
+Upstream-Name: AoyagiSoseki
+Upstream-Contact: 青柳衡山 (Kouzan Aoyagi) <kouzan _atmark_ kuc.biglobe.ne.jp>
+
+Files: *.ttf
+Copyright: 青柳衡山 (Kouzan Aoyagi) <kouzan _atmark_ kuc.biglobe.ne.jp>
+           青柳疎石 (Soseki Aoyagi)
+License: public-domain
+ (Original Text written in Japanese, UTF-8)
+ 青柳フォント５体、全てについてパブリックドメインと致しております、
+ 自由にお使い頂けたらと思います。
+ .
+ 5 fonts in AoyagiFont family (AoyagiSoseki, KouzanMouhitsu, KouzanMouhitsu 
+ Gyosho, KouzanMouhitsu Sousho and AoyagiKouzanFontT) are under Public Domain.
+ Please use it freely.
+
+Files: debian/*
+Copyright: 2008-2020, Hideki Yamane (Debian-JP) <henrich@debian.or.jp>
+License: GPL-2
+ On Debian systems the full text of the GNU General Public 
+ License can be found in the `/usr/share/common-licenses/GPL-2'
+ file.
