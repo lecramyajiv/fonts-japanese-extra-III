@@ -1,3 +1,7 @@
+# Fonts-Japanese-extra-III
+
+Collection of Japanese fonts for Slackware linux.
+The fonts in this collection are:
 
 1. Yozfont edu font family
 2. Yozfont Cute font family
