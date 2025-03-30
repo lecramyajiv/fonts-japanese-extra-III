@@ -6,3 +6,4 @@
 6. [Kouzan-mouhitsu](http://http.us.debian.org/debian/pool/main/f/fonts-kouzan-mouhitsu/fonts-kouzan-mouhitsu_20170411-3_all.deb)
 7. [Aoyagi-Soseki](http://http.us.debian.org/debian/pool/main/f/fonts-aoyagi-soseki/fonts-aoyagi-soseki_20070207-17_all.deb)
 8. [Konatu](http://http.us.debian.org/debian/pool/main/f/fonts-konatu/fonts-konatu_20121218-11_all.deb)
+9. [aoyagi-kouzan-t](http://http.us.debian.org/debian/pool/main/f/fonts-aoyagi-kouzan-t/fonts-aoyagi-kouzan-t_20160404-6_all.deb)
